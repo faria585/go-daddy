@@ -1,0 +1,5 @@
+[19-Dec-2024 12:03:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'domain_id' cannot be null in /home/customer/www/rsoa72.rehan.school/public_html/Go Daddy/cart.php:10
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/Go Daddy/cart.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/Go Daddy/cart.php on line 10
